@@ -1,5 +1,5 @@
 # # import gspread
-bot_token = '6328630786:AAFxh0fPW0-NyxK2mvC-ZwPKvqAEuEAIyE8'
+bot_token = 'ur token'
 #
 #
 #
